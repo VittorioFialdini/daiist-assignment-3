@@ -55,4 +55,4 @@ The comprehension check, written in class without your code, multiplies the subt
 
 ## AI use
 
-Allowed
+Allowed for code; disclose it in REPORT.md. The decisions (use case, chunking, design choice, refusals, judge rubric, ship decision), the test set, your own grades and the report's analysis must be yours.
